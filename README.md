@@ -1,14 +1,14 @@
 # Tensorflow-Object-Detection-API-Tutorial
 This repository lists all the steps to install Tensorflow-GPU and hence setup and utilize the Tensorflow Object Detection API on windows without Anaconda.
 
-### -----------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------
 
 ## INDEX
 ### •	Tensorflow-gpu installation on Windows 
 ### •	External Dependencies.
 ### •	Object Detection Environment Setup
 
-### -----------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------
 
 ## Tensorflow - GPU Installation 
 This Instalation will require the lastest version of Visual Studio Build Tools (C++) and Visual Studio Community at the least
@@ -58,7 +58,7 @@ Launch Jupyter Notebook from within the enviornment. Under the new drop down men
 In the untitled notebook type run the following command.If there are no errors the installation was successful.
 $ import tensorflow as tf
 
-### -----------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------
 
 ## EXTERNAL DEPENDENCIES 
 
@@ -71,7 +71,7 @@ This software should allow for easier cloning of github repositories and can be 
 The Git Bash terminal can also be utilized for running shell scripts. <br />
 https://gitforwindows.org/
 
-### -----------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------
 
 ## OBJECT DETECTION API 
 
